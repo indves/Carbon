@@ -25,7 +25,7 @@ return array(
     'second' => ':count detik',
     's' => ':count detik',
     'ago' => ':time yang lalu',
-    'from_now' => ':time dari sekarang',
+    'from_now' => ':time lagi',
     'after' => ':time setelah',
     'before' => ':time sebelum',
 );
